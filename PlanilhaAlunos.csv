@@ -1,0 +1,301 @@
+﻿RA,Nome,Sexo,Turno,Idade,Endereço,Telefone,CUV,LP,FBM,QG,CTS
+1,Agatha,F,I,20,Alta Floresta DOeste,992261720,6,7,8,9,10
+2,Agatha,F,N,19,Ariquemes,992080489,5,10,8,5,3
+3,Alice,F,I,18,Cabixi,984139729,5,6,0,3,8
+4,Alice,F,I,20,Cacoal,993571124,6,4,4,2,6
+5,Alícia,F,N,19,Cerejeiras,991544032,7,4,4,1,7
+6,Alícia,F,N,18,Colorado do Oeste,983256812,0,5,3,1,7
+7,Álvaro,M,I,18,Corumbiara,997065056,5,5,0,2,3
+8,Álvaro,M,N,19,Costa Marques,984381981,7,5,8,0,2
+9,Ana Clara,F,I,19,Espigão DOeste,986313938,2,10,8,0,8
+10,Ana Clara,F,I,19,Guajará-Mirim,982727245,6,3,3,8,6
+11,Ana Júlia,F,I,18,Jaru,985123614,2,3,10,1,10
+12,Ana Laura,F,I,19,Ji-Paraná,991715316,8,4,1,9,7
+13,Ana Laura,F,I,20,Machadinho DOeste,998836041,1,10,7,8,0
+14,Ana Luiza,F,I,18,Nova Brasilândia DOeste,984785303,0,2,2,4,7
+15,André,M,I,20,Ouro Preto do Oeste,995969608,9,0,2,5,1
+16,André,M,I,18,Pimenta Bueno,988191022,2,6,9,6,3
+17,Anthony,M,I,20,Porto Velho,998779158,1,5,4,1,10
+18,Anthony,M,N,18,Presidente Médici,999211326,8,5,6,9,7
+19,Antonella,F,I,18,Rio Crespo,983229166,5,3,6,2,1
+20,Antônio,M,I,18,Rolim de Moura,987615917,5,3,6,3,10
+21,Antônio,M,I,19,Santa Luzia DOeste,988360299,10,9,10,0,9
+22,Antônio,M,I,19,Vilhena,999362167,10,3,9,0,9
+23,Arlindo,M,I,19,São Miguel do Guaporé,995467041,2,5,0,7,0
+24,Arthur,M,I,19,Nova Mamoré,996164520,4,5,4,9,8
+25,Arthur,M,I,18,Alvorada DOeste,985698972,8,6,6,5,9
+26,Arthur,M,I,18,Alto Alegre dos Parecis,996316273,10,5,3,7,4
+27,Bárbara,F,I,20,Alto Paraíso,986072860,5,1,1,2,4
+28,Beatriz,F,I,18,Buritis,986384893,6,1,5,7,8
+29,Beatriz,F,I,20,Novo Horizonte do Oeste,995890164,8,5,9,8,2
+30,Benício,M,I,19,Cacaulândia,985525040,10,0,8,9,5
+31,Benício,M,I,20,Campo Novo de Rondônia,984624002,7,0,9,4,2
+32,Benjamin,M,I,20,Candeias do Jamari,986429374,5,1,10,6,3
+33,Benjamin,M,I,18,Castanheiras,998597987,0,10,4,0,3
+34,Bento,M,I,18,Chupinguaia,985473672,5,9,2,6,10
+35,Bento,M,I,20,Cujubim,993551508,8,4,6,5,5
+36,Bento,M,I,20,Governador Jorge Teixeira,989632415,1,5,3,6,3
+37,Bernardo,M,I,20,Itapuã do Oeste,994050306,5,9,3,1,8
+38,Bernardo,M,I,19,Ministro Andreazza,994969538,4,0,8,3,7
+39,Bruno,M,I,19,Mirante da Serra,984878342,5,1,0,0,0
+40,Bruno,M,I,19,Monte Negro,996898281,6,9,2,8,4
+41,Bruno,M,N,19,Nova União,990622195,5,0,8,8,10
+42,Bryan,M,I,19,Parecis,985742229,0,0,2,10,8
+43,Bryan,M,I,19,Pimenteiras do Oeste,992638071,0,8,4,0,4
+44,Bryan,M,N,19,Primavera de Rondônia,990764326,8,8,6,1,5
+45,Caio,M,I,20,São Felipe DOeste,996732702,10,8,6,10,1
+46,Caio,M,I,19,São Francisco do Guaporé,981168205,8,5,10,9,7
+47,Caio,M,I,20,Seringueiras,981761104,1,0,0,0,10
+48,Caio,M,N,18,Teixeirópolis,988804409,3,4,2,3,10
+49,Calebe,M,I,19,Theobroma,993100863,4,7,2,6,10
+50,Calebe,M,I,18,Urupá,982346324,10,4,2,5,5
+51,Calebe,M,N,18,Vale do Anari,981512669,1,0,1,0,5
+52,Catarina,F,I,18,Vale do Paraíso,986342776,10,2,0,6,4
+53,Catarina,F,I,19,Acrelândia,999624072,7,7,8,1,5
+54,Catarina,F,N,19,Assis Brasil,990559794,9,3,7,0,3
+55,Cauã,M,I,20,Brasiléia,992093024,8,9,0,4,2
+56,Cauã,M,I,20,Bujari,990928135,10,3,8,6,5
+57,Cauã,M,N,20,Capixaba,996477246,10,4,4,3,10
+58,Cecília,F,I,19,Cruzeiro do Sul,997031850,9,2,10,3,10
+59,Cecília,F,I,20,Epitaciolândia,995654652,5,4,9,8,3
+60,Cecília,F,N,20,Feijó,981448383,8,9,7,6,8
+61,Cecília,F,N,18,Jordão,990373426,2,0,3,9,6
+62,Cecília,F,N,33,Mâncio Lima,983483338,0,9,6,1,8
+63,Clara,F,I,18,Manoel Urbano,986642519,4,7,8,5,8
+64,Clara,F,N,18,Marechal Thaumaturgo,985370892,6,9,2,7,2
+65,Clara,F,N,20,Plácido de Castro,988720109,10,3,4,1,10
+66,Cynthia,F,I,19,Porto Walter,982552711,2,4,3,1,9
+67,Cynthia,F,I,19,Rio Branco,999910481,3,0,2,0,9
+68,Daniel,M,I,19,Rodrigues Alves,990593408,2,1,3,8,8
+69,Daniel,M,I,18,Santa Rosa do Purus,983317226,9,3,4,0,7
+70,Daniela,F,I,18,Senador Guiomard,991198190,0,2,0,3,7
+71,Daniela,F,N,20,Sena Madureira,997398826,5,5,0,1,10
+72,Davi,M,I,20,Tarauacá,982675604,9,7,8,2,8
+73,Davi,M,I,18,Xapuri,985716928,8,6,5,2,0
+74,Davi,M,N,18,Porto Acre,994990230,9,9,8,8,0
+75,Davi,M,N,20,Alvarães,987496632,7,8,2,6,5
+76,Davi Lucca,M,I,18,Amaturá,983790981,0,0,10,2,0
+77,Davi Lucca,M,I,20,Anamã,981735278,9,10,9,7,8
+78,Eduardo,M,I,19,Anori,997831148,1,6,7,6,1
+79,Eduardo,M,I,20,Apuí,987780579,6,5,9,1,2
+80,Elias,M,I,20,Atalaia do Norte,983259840,1,2,6,8,5
+81,Elisa,F,N,20,Autazes,987316298,4,7,1,7,3
+82,Elisa,F,N,19,Barcelos,987885503,2,5,3,5,10
+83,Eloá,F,I,20,Barreirinha,989396719,7,0,8,7,10
+84,Eloá,F,N,20,Benjamin Constant,996552070,0,3,10,9,3
+85,Eloá,F,N,19,Beruri,983110436,7,10,4,4,9
+86,Emanuel,M,I,18,Boa Vista do Ramos,998591826,8,7,5,8,7
+87,Emanuel,M,I,19,Boca do Acre,994377945,2,3,4,8,10
+88,Emanuel,M,N,20,Borba,999072304,1,1,9,7,8
+89,Emanuel,M,N,18,Caapiranga,986298199,5,3,10,9,4
+90,Emanuel,M,N,18,Canutama,993553633,0,3,6,10,7
+91,Emanuelly,F,I,19,Carauari,985667592,10,8,4,4,8
+92,Enrico,M,I,19,Careiro,985081899,5,2,6,0,10
+93,Enzo,M,I,35,Careiro da Várzea,996476312,6,10,7,10,0
+94,Enzo,M,N,20,Coari,991430748,3,3,6,0,0
+95,Enzo Gabriel,M,I,20,Codajás,995770816,5,0,2,3,3
+96,Enzo Gabriel,M,I,20,Eirunepé,992994334,4,5,2,7,5
+97,Enzo Gabriel,M,N,20,Envira,992272989,4,4,10,0,7
+98,Enzo Gabriel,M,N,19,Fonte Boa,988337635,1,7,1,3,5
+99,Esther,F,I,18,Guajará,998224725,7,7,10,10,3
+100,Esther,F,I,20,Humaitá,994891967,0,10,4,3,6
+101,Esther,F,N,18,Ipixuna,988992764,4,2,1,6,1
+102,Fábio,M,I,20,Iranduba,985147976,10,3,8,9,6
+103,Felipe,M,I,18,Itacoatiara,988687858,7,2,2,0,4
+104,Felipe,M,N,18,Itamarati,994897024,4,10,4,7,8
+105,Felipe,M,N,20,Itapiranga,999454426,6,9,8,1,10
+106,Flávia,F,N,20,Japurá,989948738,6,1,2,6,5
+107,Flávia,F,N,20,Juruá,988288312,0,6,3,1,8
+108,Gabriel,M,I,18,Jutaí,987988244,10,4,8,9,1
+109,Gabriel,M,N,20,Lábrea,985833347,3,7,6,8,8
+110,Gabriela,F,I,20,Manacapuru,998348970,8,7,1,10,9
+111,Gabriela,F,I,20,Manaquiri,982048910,10,0,2,9,4
+112,Gabriela,F,I,19,Manaus,996875651,8,2,5,5,2
+113,Gael,M,N,19,Manicoré,983085383,4,7,9,5,2
+114,Giovanna,F,I,40,Maraã,995317541,5,1,6,5,6
+115,Guilherme,M,I,18,Maués,998615951,10,10,10,8,2
+116,Guilherme,M,I,19,Nhamundá,981851705,4,3,2,0,8
+117,Guilherme,M,I,20,Nova Olinda do Norte,985524497,8,10,8,6,5
+118,Gustavo,M,I,18,Novo Airão,990588838,7,9,1,8,6
+119,Gustavo,M,N,20,Novo Aripuanã,983044405,3,0,7,10,9
+120,Heitor,M,I,19,Parintins,990460902,5,10,7,7,4
+121,Heitor,M,I,20,Pauini,995128220,0,3,7,2,1
+122,Helena,F,I,20,Presidente Figueiredo,995436077,1,2,1,1,0
+123,Helena,F,I,19,Rio Preto da Eva,984258880,7,3,2,1,9
+124,Helena,F,I,18,Santa Isabel do Rio Negro,987038451,10,3,2,7,9
+125,Heloísa,F,I,20,Santo Antônio do Içá,999820646,4,0,2,5,7
+126,Heloísa,F,I,20,São Gabriel da Cachoeira,992879440,2,6,8,6,1
+127,Heloísa,F,I,18,São Paulo de Olivença,997461011,4,10,9,7,9
+128,Henrique,M,I,18,São Sebastião do Uatumã,984439703,6,7,7,6,8
+129,Henrique,M,I,20,Silves,981220684,5,0,3,6,9
+130,Horácio,M,I,19,Tabatinga,987281917,0,2,0,9,1
+131,Horácio,M,N,18,Tapauá,989189868,1,5,8,1,8
+132,Iraci,F,I,18,Tefé,990504448,4,6,7,3,6
+133,Iraci,F,I,18,Tonantins,984143903,3,4,9,5,3
+134,Irami,F,I,18,Uarini,991678275,1,8,0,5,5
+135,Irandi,F,I,29,Urucará,995629346,3,8,8,4,6
+136,Isaac,M,I,18,Urucurituba,997751800,2,2,9,4,7
+137,Isaac,M,N,18,Amajari,984509319,0,5,1,1,5
+138,Isaac,M,N,20,Alto Alegre,983193239,5,6,3,7,10
+139,Isaac,M,N,19,Boa Vista,989761955,10,8,9,8,1
+140,Isabella,F,I,20,Bonfim,990926601,2,2,1,7,3
+141,Isabelly,F,I,20,Cantá,996005858,9,5,7,10,4
+142,Isabelly,F,N,19,Caracaraí,994089193,6,0,5,4,0
+143,Isadora,F,I,18,Caroebe,988980762,4,6,0,10,4
+144,Isadora,F,I,18,Iracema,988872682,4,2,9,0,8
+145,Isis,F,I,20,Mucajaí,990027929,9,1,0,6,3
+146,Isis,F,I,20,Normandia,985008244,5,3,0,0,8
+147,João,M,I,20,Pacaraima,996235023,3,9,5,10,9
+148,João Garcia,M,I,20,Rorainópolis,983680726,7,5,7,5,8
+149,João Lucas,M,I,19,São João da Baliza,997995687,5,8,6,0,2
+150,João Lucas,M,I,19,São Luiz,988949404,7,3,4,0,8
+151,João Lucas,M,N,20,Uiramutã,989144618,0,4,7,5,9
+152,João Miguel,M,I,18,Abaetetuba,990037881,1,4,5,2,6
+153,João Miguel,M,I,18,Abel Figueiredo,990233048,3,2,4,5,9
+154,João Miguel,M,I,20,Acará,989448932,10,0,5,8,0
+155,João Pedro,M,I,20,Afuá,988329398,9,1,0,3,3
+156,João Pedro,M,I,20,Água Azul do Norte,986748157,3,8,5,0,1
+157,João Pedro,M,I,20,Alenquer,992196550,7,5,4,2,2
+158,Joaquim,M,I,19,Almeirim,995421703,7,1,1,6,9
+159,Joaquim,M,I,18,Altamira,985128569,5,10,4,5,10
+160,Joaquim,M,I,20,Anajás,982719236,3,3,7,10,0
+161,Joaquim,M,N,18,Ananindeua,988141759,0,8,7,8,8
+162,Joaquim,M,N,20,Anapu,982618179,4,0,9,5,0
+163,Joaquim,M,N,19,Augusto Corrêa,983265688,10,2,2,5,10
+164,Josefa,F,I,20,Aurora do Pará,995767100,8,10,5,8,7
+165,Josefa,F,N,18,Aveiro,987614486,1,4,3,6,1
+166,Josete,F,I,19,Bagre,998766405,5,4,8,10,7
+167,Júlia,F,I,19,Baião,984402193,8,9,8,5,1
+168,Júlia,F,N,26,Bannach,999930386,3,3,4,6,9
+169,Juliana,F,N,18,Barcarena,999239378,2,3,7,4,6
+170,Lara,F,N,20,Belém,999534588,9,3,8,0,0
+171,Lara,F,N,18,Belterra,991694495,10,5,9,6,4
+172,Laura,F,I,20,Benevides,987833793,9,8,10,10,5
+173,Laura,F,I,20,Bom Jesus do Tocantins,986926213,7,9,4,5,10
+174,Lavínia,F,I,19,Bonito,993245230,9,6,0,10,3
+175,Lavínia,F,I,20,Bragança,998426480,8,9,2,10,4
+176,Lavínia,F,I,20,Brasil Novo,982327625,10,9,2,6,7
+177,Leandro,M,I,20,Brejo Grande do Araguaia,985824541,7,1,0,4,2
+178,Leandro,M,I,18,Breu Branco,989351811,8,2,3,1,9
+179,Leonardo,M,N,18,Breves,999419657,5,5,8,0,10
+180,Leonardo,M,N,18,Bujaru,985047378,0,0,9,0,4
+181,Leonardo,M,N,19,Cachoeira do Piriá,994685615,4,3,0,0,6
+182,Leonardo,M,N,18,Cachoeira do Arari,997942743,3,9,8,2,6
+183,Lilian,F,I,19,Cametá,990116178,6,8,9,4,7
+184,Lilian,F,N,19,Canaã dos Carajás,996461170,6,10,0,2,6
+185,Lívia,F,I,20,Capanema,983292571,2,4,8,7,10
+186,Liz,F,I,18,Capitão Poço,987186831,3,6,5,1,0
+187,Liz,F,I,19,Castanhal,985318653,9,9,2,2,8
+188,Liz,F,I,20,Chaves,985736869,3,10,8,0,2
+189,Lorena,F,I,19,Colares,997184198,10,10,1,5,2
+190,Lorena,F,I,20,Conceição do Araguaia,991568704,7,10,2,8,6
+191,Lorena,F,I,19,Concórdia do Pará,994333075,7,8,3,9,1
+192,Lorenzo,M,N,19,Cumaru do Norte,992698525,6,8,4,3,7
+193,Lucas,M,I,18,Curionópolis,983691313,0,0,1,9,4
+194,Lucas,M,N,18,Curralinho,983759453,6,2,7,0,8
+195,Lucca,M,I,20,Curuá,990586062,7,9,8,5,0
+196,Lucca,M,I,20,Curuçá,991586349,8,4,5,0,9
+197,Lucca,M,N,18,Dom Eliseu,982216410,10,10,7,2,2
+198,Lucca,M,N,18,Eldorado do Carajás,981471374,2,3,5,4,7
+199,Luiz,M,N,22,Faro,985008297,6,9,6,6,5
+200,Luiza,F,I,21,Floresta do Araguaia,985063883,9,7,7,6,5
+201,Luiza,F,I,21,Garrafão do Norte,996605866,2,7,4,4,2
+202,Luiza,F,I,18,Goianésia do Pará,984323039,6,2,8,3,4
+203,Maitê,F,I,19,Gurupá,994703689,9,2,9,2,0
+204,Maitê,F,I,19,Igarapé-Açu,985818993,4,2,6,7,1
+205,Manuela,F,I,18,Igarapé-Miri,996167346,10,3,2,0,9
+206,Manuela,F,I,20,Inhangapi,992369582,2,0,5,9,9
+207,Manuela,F,N,20,Ipixuna do Pará,992769523,2,2,3,6,6
+208,Manuela,F,N,20,Irituia,991070807,2,6,9,5,1
+209,Marcos,M,N,20,Itaituba,994373092,10,1,0,9,3
+210,Maria Alice,F,I,20,Itupiranga,997533195,7,10,8,1,10
+211,Maria Cecília,F,I,20,Jacareacanga,981596584,1,7,0,2,7
+212,Maria Cecília,F,I,18,Jacundá,986767173,10,7,3,4,6
+213,Maria Cecília,F,N,20,Juruti,995007041,9,5,2,0,10
+214,Maria Cecília,F,N,18,Limoeiro do Ajuru,991700260,8,3,0,0,2
+215,Maria Cecília,F,N,18,Mãe do Rio,999448950,8,9,1,7,5
+216,Maria Clara,F,I,18,Magalhães Barata,999903239,1,1,3,7,6
+217,Maria Clara,F,N,18,Marabá,982237855,6,7,2,3,10
+218,Maria Eduarda,F,I,19,Maracanã,982956660,10,8,8,10,7
+219,Maria Eduarda,F,I,19,Marapanim,998600823,10,9,4,7,2
+220,Maria Helena,F,N,18,Marituba,984767011,7,10,3,7,3
+221,Maria Júlia,F,I,19,Medicilândia,987164441,5,9,2,2,0
+222,Maria Júlia,F,N,20,Melgaço,999867025,4,4,9,2,2
+223,Maria Júlia,F,N,18,Mocajuba,990570111,3,4,2,4,7
+224,Maria Luiza,F,I,19,Moju,996466524,0,1,8,10,8
+225,Maria Luiza,F,I,18,Mojuí dos Campos,985451887,6,2,8,7,3
+226,Maria Luiza,F,N,18,Monte Alegre,998422654,1,5,2,6,7
+227,Mariana,F,I,20,Muaná,996702229,0,10,8,6,0
+228,Mariana,F,N,20,Nova Esperança do Piriá,990593527,10,4,7,7,5
+229,Marina,F,I,20,Nova Ipixuna,988754147,10,5,1,6,8
+230,Marina,F,N,19,Nova Timboteua,996175420,7,4,1,10,2
+231,Marisa,F,I,24,Novo Progresso,984967208,10,7,5,6,5
+232,Marisa,F,I,18,Novo Repartimento,997996826,0,0,2,2,3
+233,Matheus,M,I,18,Óbidos,995593904,8,10,9,0,7
+234,Matheus,M,N,19,Oeiras do Pará,999807841,1,5,0,3,5
+235,Melissa,F,N,19,Oriximiná,981894151,3,0,6,9,7
+236,Micaela,F,I,19,Ourém,993930309,2,10,3,1,2
+237,Miguel,M,I,20,Ourilândia do Norte,996351241,2,6,1,2,0
+238,Mikaela,F,I,19,Pacajá,991518157,8,1,8,5,9
+239,Murilo,M,I,18,Palestina do Pará,997635020,10,5,2,0,7
+240,Murilo,M,I,18,Paragominas,989083978,1,7,4,2,1
+241,Murilo,M,I,19,Parauapebas,998667410,8,4,3,6,5
+242,Murilo,M,I,20,Pau dArco,997234925,9,0,8,8,10
+243,Natali,F,N,19,Peixe-Boi,992224596,7,7,10,10,0
+244,Natali,F,N,20,Piçarra,993978728,0,5,1,0,3
+245,Natália,F,I,18,Placas,998342835,6,10,6,0,7
+246,Nicolas,M,I,19,Ponta de Pedras,982484855,4,0,3,9,0
+247,Nicolas,M,I,18,Portel,991074168,4,6,8,6,3
+248,Nicolas,M,N,19,Porto de Moz,985684997,8,0,2,2,0
+249,Noah,M,I,18,Prainha,985588161,8,2,0,9,1
+250,Noah,M,I,19,Primavera,991942707,3,0,7,8,0
+251,Noah,M,I,18,Quatipuru,986491921,10,2,1,5,2
+252,Noah,M,N,20,Redenção,985700644,9,6,5,6,9
+253,Pedro,M,I,18,Rio Maria,993940555,4,0,4,10,8
+254,Pedro,M,N,20,Rondon do Pará,997404089,6,6,0,8,2
+255,Pedro,M,N,20,Rurópolis,988452039,7,0,3,3,3
+256,Pedro,M,N,33,Salinópolis,991205557,8,0,2,4,0
+257,Pedro Henrique,M,I,20,Salvaterra,982617713,8,2,1,4,5
+258,Pedro Henrique,M,I,18,Santa Bárbara do Pará,991696515,8,8,6,10,4
+259,Pedro Henrique,M,N,20,Santa Cruz do Arari,999714956,0,2,7,0,4
+260,Pedro Henrique,M,N,19,Santa Izabel do Pará,997688499,3,9,8,6,4
+261,Pietro,M,I,19,Santa Luzia do Pará,993660377,4,0,3,5,0
+262,Rafael,M,I,19,Santa Maria das Barreiras,996214438,9,0,3,4,9
+263,Rafael,M,I,20,Santa Maria do Pará,997733012,4,4,5,7,8
+264,Rafael,M,N,18,Santana do Araguaia,990226638,3,3,7,0,2
+265,Rafaela,F,I,18,Santarém,992910595,7,5,7,0,10
+266,Rafaela,F,N,19,Santarém Novo,991774609,5,4,8,8,5
+267,Rafaela,F,N,20,Santo Antônio do Tauá,999670081,8,2,2,5,8
+268,Rebeca,F,I,18,São Caetano de Odivelas,999045631,1,3,2,10,0
+269,Rebeca,F,I,18,São Domingos do Araguaia,998687348,4,7,0,2,5
+270,Regiane,F,I,18,São Domingos do Capim,995227915,5,10,2,2,8
+271,Rosimary,F,I,20,São Félix do Xingu,986209421,0,4,5,3,2
+272,Samuel,M,I,19,São Francisco do Pará,997953650,4,8,2,0,0
+273,Samuel,M,I,20,São Geraldo do Araguaia,990620412,10,9,9,4,7
+274,Samuel,M,N,20,São João da Ponta,983288362,3,9,8,10,2
+275,Sarah,F,I,20,São João de Pirabas,997954476,4,3,2,2,4
+276,Sarah,F,I,20,São João do Araguaia,988492944,7,1,7,6,7
+277,Sarah,F,N,30,São Miguel do Guamá,999042728,5,1,6,10,1
+278,Sophia,F,I,18,São Sebastião da Boa Vista,999238021,7,5,7,7,1
+279,Sophia,F,I,19,Sapucaia,998475770,4,2,9,10,2
+280,Sophia,F,I,20,Senador José Porfírio,999298577,7,2,1,9,3
+281,Théo,M,I,19,Soure,981510189,7,6,0,4,6
+282,Théo,M,N,18,Tailândia,998649588,4,1,8,1,2
+283,Tiago,M,I,19,Terra Alta,991534734,2,7,3,2,0
+284,Valentina,F,I,20,Terra Santa,998084754,5,8,10,0,0
+285,Valentina,F,N,19,Tomé-Açu,997415545,7,5,8,3,10
+286,Vicente,M,N,18,Tracuateua,989258027,6,9,7,3,0
+287,Vinícius,M,I,18,Trairão,986722099,0,8,2,3,6
+288,Vinícius,M,I,20,Tucumã,994005773,7,8,4,3,9
+289,Vitor,M,I,20,Tucuruí,997623397,0,3,2,8,1
+290,Vitor,M,N,20,Ulianópolis,982053950,2,4,2,4,10
+291,William,M,I,18,Uruará,995462255,1,6,7,0,9
+292,Willian,M,N,19,Vigia,994194386,3,2,1,5,3
+293,Willian,M,N,25,Viseu,994687179,0,7,4,3,7
+294,Willian,M,N,19,Vitória do Xingu,992230622,6,9,8,6,7
+295,Willian,M,N,19,Xinguara,984722332,0,10,3,1,9
+296,Yasmin,F,I,20,Serra do Navio,991176415,8,4,8,4,3
+297,Yasmin,F,I,20,Amapá,992738717,1,7,9,1,4
+298,Yasmin,F,I,18,Pedra Branca do Amapari,995349358,4,3,9,10,10
+299,Yasmin,F,N,19,Calçoene,997714643,1,2,2,10,2
+300,Yasmin,F,N,18,Cutias,984263473,7,8,5,3,3
